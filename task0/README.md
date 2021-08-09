@@ -2,8 +2,8 @@
 
 ## 1. Setup a CKB Node
 
-![](1.png)
+![](pic-1.png)
 
 ## 2. Setup a CKB Indexer
 
-![](2.png)
+![](pic-2.png)
